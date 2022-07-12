@@ -1,0 +1,38 @@
+.cabecera {
+  background-color: rgba(45, 115, 176, 0.878);
+  opacity: 0.6;
+  display: flex;
+  flex-wrap: wrap;
+  margin-right: 100px;
+  border: none;
+  justify-content: space-between;
+  flex-direction: row;
+  align-items: top;
+  height: 100px;
+  overflow: hidden;
+}
+
+.historia {
+  align-content: top;
+  display: flex;
+  padding-top: 30px;
+  margin-left: 20%;
+  margin-right: 20%;
+  background-color: rgb(143, 174, 216);
+}
+
+.images {
+  padding-top: 10%;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+  padding-bottom: 5%;
+  background-color: aquamarine;
+}
+
+.fooot {
+  display: flex;
+  justify-content: space-around;
+  background-color: gray;
+  align-content: center;
+}/*# sourceMappingURL=styles.css.map */
